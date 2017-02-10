@@ -108,5 +108,5 @@ config.language="C/C++/Py/C#"; //optional choose any one of them or none
   [![Facebook][2.1]][2]
   [1.1]: http://i.imgur.com/tXSoThF.png 
   [2.1]: http://i.imgur.com/P3YfQoD.png
-  [1]: http://www.twitter.com/Tarun_Garg2
-  [2]: http://www.facebook.com/tarungarg546
+  [1]: http://www.twitter.com/bkdev98
+  [2]: http://www.facebook.com/bkdev98
